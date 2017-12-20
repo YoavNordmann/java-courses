@@ -1,4 +1,4 @@
-package com.tikal;
+package com.tikal.reflection;
 
 public class Person {
 

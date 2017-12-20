@@ -1,4 +1,4 @@
-package com.tikal;
+package com.tikal.basic;
 
 import java.util.Arrays;
 import java.util.List;

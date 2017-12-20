@@ -1,4 +1,4 @@
-package com.tikal;
+package com.tikal.reflection;
 
 import java.lang.reflect.Field;
 import java.util.Arrays;

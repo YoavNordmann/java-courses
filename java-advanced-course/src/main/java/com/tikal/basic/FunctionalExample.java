@@ -1,4 +1,4 @@
-package com.tikal;
+package com.tikal.basic;
 
 import java.util.Objects;
 import java.util.Optional;
