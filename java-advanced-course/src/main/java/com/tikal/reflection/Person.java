@@ -5,6 +5,7 @@ public class Person {
 	private static final String GLOBAL = "SHAGABOOM";
 
 	private String name;
+
 	private int age;
 
 	public Person() {
@@ -25,6 +26,11 @@ public class Person {
 
 	public static String concatWithSpace(String str1, String str2) {
 		return String.join(" ", str1, str2);
+	}
+	
+	@Override
+	public String toString() {
+		return String.join("->", name, Integer.valueOf(age).toString());
 	}
 
 }
